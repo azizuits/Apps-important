@@ -1,0 +1,6 @@
+{
+  "name": "YearVault",
+  "description": "Organize, store, and manage all personal, financial, and work documents and notes by year, month, and date with offline vault storage and archive export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
